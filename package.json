@@ -1,0 +1,29 @@
+{
+  "name": "typescript-development-environment",
+  "version": "1.0.0",
+  "description": "This is a template for building typescript projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craigclemons/typescript-development-environment.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "Seed",
+    "Template",
+    "Starter-Kit"
+  ],
+  "author": "Craig Clemons",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/craigclemons/typescript-development-environment/issues"
+  },
+  "homepage": "https://github.com/craigclemons/typescript-development-environment#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "nsp": "^2.8.1"
+  }
+}
