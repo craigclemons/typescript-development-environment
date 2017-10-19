@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "This is a template for building typescript projects",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "karma start karma.conf.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/craigclemons/typescript-development-environment.git"
